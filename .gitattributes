@@ -1,0 +1,7 @@
+*.apk filter=lfs diff=lfs merge=lfs -text
+*.fbx filter=lfs diff=lfs merge=lfs -text
+Library/ArtifactDB filter=lfs diff=lfs merge=lfs -text
+Library/Artifacts/f0/f034db084b32d94d23a9f01893191258 filter=lfs diff=lfs merge=lfs -text
+Library/PlayerDataCache/Android/Data/data.unity3d filter=lfs diff=lfs merge=lfs -text
+Assets/Models/fbx.fbx filter=lfs diff=lfs merge=lfs -text
+Build/test_ar_001.apk filter=lfs diff=lfs merge=lfs -text
